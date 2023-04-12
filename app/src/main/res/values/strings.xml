@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test-1</string>
+    <string name="hello_word">Hello Word</string>
+    <string name="traduire_en_fran_ais">Traduire en français</string>
+</resources>
